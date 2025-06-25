@@ -1,5 +1,5 @@
 [![ItzSupra13's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSupra13&show_icons=true&theme=midnight-purple&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://nirzak-streak-stats.vercel.app/?user=ItzSupra13&theme=midnight-purple&hide_border=true&background=00000000&card_width=460&card_height=160)
+![](https://nirzak-streak-stats.vercel.app/?user=ItzSupra13&theme=midnight-purple&hide_border=true&background=00000000&card_width=100&card_height=160)
 
 
 
