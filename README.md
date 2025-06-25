@@ -1,6 +1,11 @@
-<div align="center">
-<h1><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> Hi there! I'm Supra :) </h1>
-</div>
+<h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> Hi, I'm Supra!
+
+ • • •
+
+</h1>
+
+I'm a developer
+
 
 
 [![ItzSupra13's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSupra13&show_icons=true&theme=midnight-purple&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
