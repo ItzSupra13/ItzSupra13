@@ -1,5 +1,9 @@
-## Hi there 👋
+[![ItzSupra13's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSupra13&show_icons=true&theme=midnight-purple&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=ItzSupra13&theme=midnight-purple&hide_border=true&background=00000000)
 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **ItzSupra13/ItzSupra13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
